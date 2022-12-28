@@ -1,0 +1,11 @@
+name: VDev
+description: Development server plugin for some basic commands
+main: me.kevind.VDev
+api-version: 1.17
+version: 1.0
+author: ItsCryptic
+commands:
+  gm:
+    aliases:
+      - "gamemode"
+    description: Set your gamemode
